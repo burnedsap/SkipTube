@@ -1,6 +1,7 @@
 # SkipTube
 
-![alt text](readme_content/Skiptube logo.png "Description goes here")
+![alt text](readme_content/Skiptube_logo.png "Description goes here")
+
 Traverse YouTube.com at speeds never experienced before.
 
 Jump through Youtube hyperspace to explore the length and breadth of the video website universe.
