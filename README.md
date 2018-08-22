@@ -1,6 +1,6 @@
 # SkipTube
 
-![alt text](readme_content/Skiptube_logo.png "Description goes here")
+![alt text](readme_content/SkipTube_logo.png "Description goes here")
 
 Traverse YouTube.com at speeds never experienced before.
 
