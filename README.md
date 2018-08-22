@@ -1,6 +1,6 @@
 # SkipTube
 
-![Logo](readme_content/logo.png)
+![Logo](/readme_content/logo.png)
 
 Traverse YouTube.com at speeds never experienced before.
 
